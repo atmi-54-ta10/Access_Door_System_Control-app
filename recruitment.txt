@@ -1,0 +1,10 @@
+## run this command
+
+sudo apt update
+sudo apt upgrade
+sudo apt-get install python3-tk
+sudo pip install customtkinter --break-system-packages
+sudo pip install CTkTable --break-system-packages
+sudo pip install --upgrade pillow --break-system-packages
+sudo pip install requests --break-system-packages
+sudo pip install pytz --break-system-packages
