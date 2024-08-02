@@ -28,10 +28,7 @@ This repository contains the control application for the Access Door System usin
     source venv/bin/activate
     ```
 
-3. **Install dependencies:**
-    ```sh
-    pip install -r requirements.txt
-    ```
+3. **Install dependencies with copy command line from requirements.txt:**
 
 4. **Configure environment variables:**
     - manage the uri.py file
